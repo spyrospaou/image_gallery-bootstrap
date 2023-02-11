@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.practice{
+    margin-top:2em;
+}
+
+#accordionExample{
+    max-width:500px;
+    margin:0 auto;
+}
+
+.carousel {
+    max-width:720px;
+    margin:0 auto;
+  }
+
